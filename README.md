@@ -1,7 +1,7 @@
 # BabbleTrainer
 A practice tool for Babble Royale that uses the Babble Royale dictionary, definitions and letter distribution. You get a set of letters and a few lines of fixed letters and blanks and have to find as many words as possible that connect the fixed letters using your rack. You can specify certain letter compositions, word counts, bigrams and fragments that you want to appear in the results. Game seeds can be saved to a list so you can revisit them later and practice any new words or patterns that you've learned previously. You can get hints and reveal the full list of playable words with definitions, stratified by length. The list of played words is paired with definitions so you can quickly learn the meaning of correctly guessed hunches.
 
-It is purely line-based, there is no grid or vertical play like in Babble Royale or Scrabble. It uses a threaded brute-force search to find a random game satisfies all specified constraints. Most use cases are found instantly.
+It is purely line-based, there is no grid or vertical play like in Babble Royale or Scrabble. It uses a threaded brute-force search to find a random game that satisfies all specified constraints. Most use cases are found instantly.
 
 In order to load the Babble Royale dictionary with definitions you have to run the program from inside the Babble Royale folder (next to BabbleRoyale.exe). Alternatively you can load a list of plain words using a wordlist.txt file. Your list of seeds is saved to seedlist.txt in the same folder.
 
