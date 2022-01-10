@@ -5,7 +5,7 @@ It is purely line-based, there is no grid or vertical play like in Babble Royale
 
 In order to load the Babble Royale dictionary with definitions you have to run the program from inside the Babble Royale folder (next to BabbleRoyale.exe). Alternatively you can load a list of plain words using a wordlist.txt file. Your list of seeds is saved to seedlist.txt in the same folder.
 
-**[Download](https://github.com/seodin/BabbleTrainer/raw/master/BabbleTrainer.exe)**
+**[Download](https://github.com/seodin/BabbleTrainer/releases/download/v1/BabbleTrainer.exe)**
 
 You need the .NET 5 Desktop Runtime: **[Download](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)**
 
